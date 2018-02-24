@@ -1,4 +1,4 @@
-# Chindia_Conflict_Poanlysis
+# Chindia_Conflict_Poanalysis
 
 ## 数据说明
 2017.6.18--8.28 中印对峙事件的全网舆情数据（共1522740条），共爬取了微博、微信公众号、今日头条、知乎四大主流媒体平台。
