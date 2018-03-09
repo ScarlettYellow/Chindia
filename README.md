@@ -10,3 +10,6 @@
 
 ## 成果
 2017年下半年组队参加了[DF,CCF大数据与计算智能大赛](http://www.datafountain.cn/#/)之[“中印对峙”事件期间舆情分析](http://www.datafountain.cn/#/competitions/272/intro)赛题，本队名称Newbie，获决赛二等奖。
+
+## 分析报告
+[Public Opinion Analysis of 2017 China–India border standoff ](https://github.com/ScarlettYellow/Chindia/blob/master/Public%20Opinion%20Analysis%20of%202017%20China%E2%80%93India%20border%20standoff%20.pdf)
